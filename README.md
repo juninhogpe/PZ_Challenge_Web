@@ -1,3 +1,13 @@
+1. Realizei o Fork
+2. Projeto implementado
+
+# Instruções
+1. Para executar o projeto é necessário um servidor local com Apache. Pode ser utilizado também Wamp, Xampp, AppServ ou qualquer outro servidor local.
+2. Colocar os arquivos dentro da pasta de execução do Apache
+3. No navegador utilizar uma extensão "CORS" para evitar a mensagem de 'Access-Control-Allow-Origin' e o não carregamento do JSON
+4. Chamar a aplicação no navegar, como por exemplo: http://localhost/meuAplicativo
+
+
 # PZ_Challenge_Web
 Programming Challenge for Web Developers
 
